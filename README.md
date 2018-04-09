@@ -1,2 +1,2 @@
-# resize-the-image
-resize the image in Python before training a model
+# resize-and-crop-the-image
+resize and crop the image in Python before training a model
